@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @RiteshAgrawal2001
-- 👀 I’m interested in Data analytics
-- 🌱 I’m currently learning Data science
+- 👋 Hi, I’m RITESH AGRAWAL
+- 👀 I’m interested in Data Science, web development, software development,..
+- 🌱 I’m currently learning Data science , Python, DBMS ,  JavaScript..
 
 
 As engineers, we were going to be in a position to change the world 
