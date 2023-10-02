@@ -1,5 +1,5 @@
 - 👋 Hi, I’m RITESH AGRAWAL
-- 👀 I’m interested in Data Science, web development, software development,..
+- 👀 I’m interested in Data Science, web development, software development,  Java full stack devlopment..
 - 🌱 I’m currently learning Data science , Python, DBMS ,  JavaScript..
 
 
