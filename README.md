@@ -17,14 +17,6 @@ To be a brilliant performer in applying my skill sets, to achieve the short-term
   - Amravati University
   - CGPA: 8.16
 
-  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-  ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
 - **XII – Higher Secondary 2018-2019**
   - Brijlal Biyani Science College, Amravati
   - Maharashtra State Board
@@ -40,10 +32,15 @@ To be a brilliant performer in applying my skill sets, to achieve the short-term
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Operating System
+## 🌐 Current Tech Stack
 
-- Windows
-- Ubuntu
+- ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
+- ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+- ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=flat-square&logo=mysql&logoColor=white)
 
 ### Databases
 
@@ -108,6 +105,12 @@ I completed Full Stack Development training at Javabykiran, Pune. Here, I master
 
 ![Profile views](https://gpvc.arturio.dev/[RiteshAgrawal2001](https://github.com/RiteshAgrawal2001/RiteshAgrawal2001))
 
+![RITESH's GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=RiteshAgrawal2001&bg_color=white&color=black&line=4c8ed9&point=4c8ed9&area=true&hide_border=true)
+
+[![RITESH's CodeStats](https://codestats-readme.wegfan.cn/history-graph/RiteshAgrawal2001?width=850&height=300&timezone=05:30)](https://codestats.net/users/RiteshAgrawal2001)
+
+
+![RITESH's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RiteshAgrawal2001&theme=flat&column=4&margin-w=5)
 
 ## 📈 GitHub Stats
 
@@ -116,6 +119,12 @@ I completed Full Stack Development training at Javabykiran, Pune. Here, I master
 ## 🏆 LeetCode Profile
 
 [LeetCode](https://leetcode.com/RiteshAgrawal2001/)
+
+## 📝 Blog & Portfolio
+
+- [Personal Website]([https://www.yourwebsite.com](https://sites.google.com/view/riteshagrawal/home))
+- [Tech Blog](https://techblog.yourwebsite.com)
+
 
 ## 📫 Contact Me
 
