@@ -94,10 +94,6 @@ I completed Full Stack Development training at Javabykiran, Pune. Here, I master
 **Students’ Grievance System for Educational Institutions**
 - Duration: Jan - May 2023
 
-
-[![RITESH's CodeStats](https://codestats-readme.wegfan.cn/history-graph/RiteshAgrawal2001?width=850&height=300&timezone=05:30)](https://codestats.net/users/RiteshAgrawal2001)
-
-
 ![RITESH's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RiteshAgrawal2001&theme=flat&column=4&margin-w=5)
 
 ## 📈 GitHub Stats
