@@ -104,7 +104,7 @@ I completed Full Stack Development training at Javabykiran, Pune. Here, I master
 **Students’ Grievance System for Educational Institutions**
 - Duration: Jan - May 2023
 
-![Profile views](https://gpvc.arturio.dev/RiteshAgrawal2001)
+![Profile views](https://gpvc.arturio.dev/[RiteshAgrawal2001](https://github.com/RiteshAgrawal2001/RiteshAgrawal2001))
 
 
 ## 📈 GitHub Stats
