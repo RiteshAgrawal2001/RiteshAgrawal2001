@@ -1,4 +1,6 @@
 # RITESH AGRAWAL - Full Stack Java Developer 🚀
+![Profile views](https://komarev.com/ghpvc/?username=RiteshAgrawal2001&label=Profile+Views&color=blueviolet)
+
 
 ## 👋 Introduction
 
