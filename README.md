@@ -21,6 +21,7 @@ To be a brilliant performer in applying my skill sets, to achieve the short-term
   ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 - **XII – Higher Secondary 2018-2019**
   - Brijlal Biyani Science College, Amravati
@@ -29,17 +30,13 @@ To be a brilliant performer in applying my skill sets, to achieve the short-term
 
 ## 🛠️ Skill Sets
 
-- Full Stack Development
-- Problem-Solving
-- Collaboration
-- Adaptability
-
-### Languages
-
-- Java
-- C
-- C++
-- Python
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Operating System
 
@@ -48,16 +45,16 @@ To be a brilliant performer in applying my skill sets, to achieve the short-term
 
 ### Databases
 
-- MySQL
+![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Other
+### Frameworks and Tools
 
-- Core Java
-- Spring
-- Hibernate
-- Servlet
-- JSP
-- Angular
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-%236DB33F.svg?style=for-the-badge&logo=hibernate&logoColor=white)
+![Servlet](https://img.shields.io/badge/Servlet-%236DB33F.svg?style=for-the-badge&logo=servlet&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-%236DB33F.svg?style=for-the-badge&logo=jsp&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 ## 🎓 Training
 
@@ -107,6 +104,14 @@ I completed Full Stack Development training at Javabykiran, Pune. Here, I master
 **Students’ Grievance System for Educational Institutions**
 - Duration: Jan - May 2023
 
+## 📈 GitHub Stats
+
+![RITESH's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RiteshAgrawal2001&show_icons=true&hide_title=true&hide_border=true)
+
+## 🏆 LeetCode Profile
+
+[LeetCode](https://leetcode.com/RiteshAgrawal2001/)
+
 ## 📫 Contact Me
 
 - Phone: +917559342718
@@ -118,4 +123,4 @@ I completed Full Stack Development training at Javabykiran, Pune. Here, I master
 
 ---
 
-*Note: This is just a template; feel free to customize it further based on your preferences and the specific details you want to highlight.*
+*Note:
